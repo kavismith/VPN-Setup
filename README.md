@@ -32,7 +32,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to Whatismyipaddress.com to see what your personal computers IPv4 address is. Take note of this. 
 </p>
 <br />
 <h2>Create Yuor Microsoft Azure VM(Virtual Machine)</h2>
@@ -43,7 +43,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Create a Subscription with Microsoft Azure account. After you Microsoft Azure is created, search in the search bar for Virtual Machine and craete a Virtual Machine for your VPN. Allow the system to create its own Resource Group. Name your VM(VPN). Change your region to another country other than the country you live in. Make sure you impage is set to Widows 10 pro. Chamge your size to 2-4 vcpus to make sure your VM run fast. Then creat create a username and passowrd so you can login to you Remote Desktop Connection(maske sure its a username and password taht you will remember). Last, check the windows license box at the end before you move on. 
 </p>
 <br />
 
