@@ -43,7 +43,7 @@ Go to Whatismyipaddress.com to see what your personal computers IPv4 address is.
 
 </p>
 <p>
-Create a Subscription with Microsoft Azure account. After you Microsoft Azure is created, search in the search bar for Virtual Machine and craete a Virtual Machine for your VPN. Allow the system to create its own Resource Group. Name your VM(VPN). Change your region to another country other than the country you live in. Make sure you impage is set to Widows 10 pro. Chamge your size to 2-4 vcpus to make sure your VM run fast. Then creat create a username and passowrd so you can login to you Remote Desktop Connection(maske sure its a username and password taht you will remember). Last, check the windows license box at the end before you move on. 
+Create a Subscription with Microsoft Azure account. After you Microsoft Azure is created, search in the search bar for Virtual Machine and craete a Virtual Machine for your VPN. Allow the system to create its own Resource Group. Name your VM(VPN). Change your region to another country other than the country you live in. Make sure you impage is set to Widows 10 pro. Chamge your size to 2-4 vcpus to make sure your VM run fast. Then creat create a username and passowrd so you can login to you Remote Desktop Connection(maske sure its a username and password taht you will remember). Last, check the windows license box at the end before you move on. Click next and go to the networking tab. You would see that the system automatically generated the virtual network/subnet. After you pass validation, click create. 
 </p>
 <br />
 
@@ -54,7 +54,7 @@ Create a Subscription with Microsoft Azure account. After you Microsoft Azure is
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Nowthat you ave create your Virtual Machine for your VPN,  searchfor virtual machine in the searchbar of microsoft azure and click on the VM you ceated for your VPn. Next, copy your public IPv4 address. Last, search for your Remote Desktop on your persona computer and past your IPv4 address in there.
 </p>
 
 <h2>Connect to Your Remote Desktop</h2>
