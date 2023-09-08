@@ -68,3 +68,27 @@ Nowthat you ave create your Virtual Machine for your VPN,  searchfor virtual mac
 <p>
 Search for your Remote Desktop on your personal computer and paste your IPv4 address in there. Next, sign into your Remote Desktop with  the username and password you created while creating your virtual machine for your VPN.
 </p>
+
+<h2>Check your Remote Desktop IPv4 address</h2>
+
+
+![image](https://github.com/kavismith/VPN-Setup/assets/143667203/d3708220-6589-46a7-85f3-362a60e9d4d6)
+
+
+
+
+</p>
+<p>
+Once signed into your Remote Desktop go whatismyipaddress.com to check your Remote Desktop IPv4 address
+</p>
+
+<h2>Sign up for Proton VPN</h2>
+
+
+![image](https://github.com/kavismith/VPN-Setup/assets/143667203/cd57294b-7dda-4d71-aaf4-04b637eec782)
+
+
+</p>
+<p>
+On your personal computer go to account.protonvpn.com/signup to sign up for a free Proton VPN account. 
+</p>
