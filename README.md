@@ -54,7 +54,7 @@ Create a Subscription with Microsoft Azure account. After you Microsoft Azure is
 
 </p>
 <p>
-Nowthat you ave create your Virtual Machine for your VPN,  searchfor virtual machine in the searchbar of microsoft azure and click on the VM you ceated for your VPn. Next, copy your public IPv4 address. Last, search for your Remote Desktop on your persona computer and past your IPv4 address in there.
+Nowthat you ave create your Virtual Machine for your VPN,  searchfor virtual machine in the searchbar of microsoft azure and click on the VM you ceated for your VPn. Next, copy your public IPv4 address. 
 </p>
 
 <h2>Connect to Your Remote Desktop</h2>
@@ -63,7 +63,8 @@ Nowthat you ave create your Virtual Machine for your VPN,  searchfor virtual mac
 ![image](https://github.com/kavismith/VPN-Setup/assets/143667203/8cd05a3b-4f52-4aec-83e1-844a6abfb7c4)
 
 
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Search for your Remote Desktop on your personal computer and paste your IPv4 address in there. Next, sign into your Remote Desktop with  the username and password you created while creating your virtual machine for your VPN.
 </p>
