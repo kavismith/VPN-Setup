@@ -1,5 +1,5 @@
-<h1>VPN Setup and Usage through Proton VPN</h1>
-In this tutorial, we will be seeting a VPN through Microsoft Azure and download Proton VPN. <br />
+<h1>VPN Setup And Proton VPN Setup</h1>
+In this tutorial, we will be setting up a VPN through Microsoft Azure and download Proton VPN<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -12,15 +12,17 @@ In this tutorial, we will be seeting a VPN through Microsoft Azure and download 
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10 (21H2)
+- Windows 10 Microsoft Azure
 - Proton VPN
 
 <h2>High-Level Steps</h2>
 
-- Personal IP Adress Look up
+- Personal Desktop IP Address Look up
 - Create Resource Group
 - Create Virtual Machine
 - Open up Remote Desktop using VM Ipv4
+- Create a free account with Proton VPN
+- Download Proton VPN
 
 
 
