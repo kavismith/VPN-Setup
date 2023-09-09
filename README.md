@@ -92,3 +92,28 @@ Once signed into your Remote Desktop go whatismyipaddress.com to check your Remo
 <p>
 On your personal computer go to account.protonvpn.com/signup to sign up for a free Proton VPN account. 
 </p>
+
+<h2>Download Proton VPN</h2>
+
+
+![image](https://github.com/kavismith/VPN-Setup/assets/143667203/528083d4-55de-43a5-8dba-be331094b670)
+![image](https://github.com/kavismith/VPN-Setup/assets/143667203/81706cc3-7a1b-411a-9f24-9eb82a837ca6)
+
+
+
+
+</p>
+<p>Once you hace successfully signed up and you created your username and password to Proton VPN on your personal computer, the next step is to sign into Proton VPN account on the Remote Desktop. Once signed in you need click on downloads to download your proton Vpn server.
+</p>
+
+
+<h2>/Download Proton VPN</h2>
+
+
+![image](https://github.com/kavismith/VPN-Setup/assets/143667203/8ae1bac3-0368-48ae-9575-f8717fdaef09)
+
+
+</p>
+<p>
+once you have clicked download, go to your downloads in your folder file and open the download. Then go through the stept to download Proton VPN on your Remote Desktop
+</p>
