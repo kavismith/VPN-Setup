@@ -34,18 +34,54 @@ In this tutorial, we will be setting up a VPN through Microsoft Azure and downlo
 
 </p>
 <p>
-Go to Whatismyipaddress.com to see what your personal computers IPv4 address is. Take note of this. 
+To find your personal computer's IPv4 address, please follow these steps:
+
+- Open a web browser on your personal computer.
+
+- In the web browser's address bar, type in "whatismyipaddress.com" and press Enter.
+
+- The website will display your personal computer's IPv4 address on the screen.
+
+Make sure to take note of this IPv4 address for your reference or any necessary networking configurations.
+
+
 </p>
 <br />
 <h2>Create Yuor Microsoft Azure VM(Virtual Machine)</h2>
 
 ![Screenshot 2023-09-05 041743](https://github.com/kavismith/VPN-Setup/assets/143667203/412265d7-de72-4ae6-979d-3b31b0e35afa) 
 
+To set up a subscription with your Microsoft Azure account and create a Virtual Machine for your VPN, follow these steps:
+
+- Start by creating a subscription with your Microsoft Azure account.
+
+- Once your Microsoft Azure account is set up, use the search bar to find and select "Virtual Machine."
+
+- Create a new Virtual Machine for your VPN, allowing the system to create its own Resource Group.
+
+- Name your Virtual Machine (VM) as "VPN."
+
+- Change the region to a country different from your current location.
+
+- Ensure that the VM image is set to "Windows 10 Pro."
+
 ![Screenshot 2023-09-05 041820](https://github.com/kavismith/VPN-Setup/assets/143667203/febd0df2-8168-420c-ae59-84ad83abe440)
+
+- Adjust the size of the VM to have 2-4 vCPUs for optimal performance.
+
+- Create a username and password that you can remember for logging in to your Remote Desktop Connection.
+
+- Check the Windows license box at the end of the setup.
+
+- Click "Next" and proceed to the networking tab, where you'll notice that the system has automatically generated the virtual network and subnet.
+
+- After passing the validation checks, click "Create."
+
+By following these steps, you will have successfully set up a Microsoft Azure subscription, created a Virtual Machine for your VPN, configured the necessary settings, and initiated the creation process. This Virtual Machine will allow you to run a Windows 10 Pro image with enhanced performance for your VPN needs.
 
 </p>
 <p>
-Create a Subscription with Microsoft Azure account. After you Microsoft Azure is created, search in the search bar for Virtual Machine and craete a Virtual Machine for your VPN. Allow the system to create its own Resource Group. Name your VM(VPN). Change your region to another country other than the country you live in. Make sure you impage is set to Widows 10 pro. Chamge your size to 2-4 vcpus to make sure your VM run fast. Then creat create a username and passowrd so you can login to you Remote Desktop Connection(maske sure its a username and password taht you will remember). Last, check the windows license box at the end before you move on. Click next and go to the networking tab. You would see that the system automatically generated the virtual network/subnet. After you pass validation, click create. 
+
 </p>
 <br />
 
@@ -56,7 +92,15 @@ Create a Subscription with Microsoft Azure account. After you Microsoft Azure is
 
 </p>
 <p>
-Nowthat you ave create your Virtual Machine for your VPN,  searchfor virtual machine in the searchbar of microsoft azure and click on the VM you ceated for your VPn. Next, copy your public IPv4 address. 
+Now that you have created your Virtual Machine for your VPN, follow these steps to find your public IPv4 address:
+
+- In Microsoft Azure, use the search bar to locate and select "Virtual Machine."
+
+- Locate and click on the Virtual Machine that you previously created for your VPN.
+
+- Within the VM's details or settings, you should be able to find and copy your public IPv4 address.
+
+Make sure to note down or copy this public IPv4 address for your reference, as it will be essential for configuring and accessing your VPN on the Virtual Machine. 
 </p>
 
 <h2>Connect to Your Remote Desktop</h2>
@@ -68,7 +112,22 @@ Nowthat you ave create your Virtual Machine for your VPN,  searchfor virtual mac
 
 </p>
 <p>
-Search for your Remote Desktop on your personal computer and paste your IPv4 address in there. Next, sign into your Remote Desktop with  the username and password you created while creating your virtual machine for your VPN.
+To access your Virtual Machine for your VPN from your personal computer using Remote Desktop, please follow these steps:
+
+- On your personal computer, search for "Remote Desktop."
+
+- Open the Remote Desktop application.
+
+- In the Remote Desktop application, paste the IPv4 address that you copied from your Virtual Machine settings in Microsoft Azure.
+
+- After pasting the IPv4 address, click on "Connect."
+
+- You will be prompted to enter the username and password that you created while setting up your Virtual Machine for your VPN in Microsoft Azure.
+
+- Enter the username and password, and then click "Sign In" or "Connect."
+
+By following these steps, you will establish a Remote Desktop connection to your Virtual Machine for your VPN, allowing you to access and manage it from your personal computer.
+
 </p>
 
 <h2>Check your Remote Desktop IPv4 address</h2>
@@ -81,7 +140,15 @@ Search for your Remote Desktop on your personal computer and paste your IPv4 add
 
 </p>
 <p>
-Once signed into your Remote Desktop go whatismyipaddress.com to check your Remote Desktop IPv4 address
+After signing into your Remote Desktop session, you can check the IPv4 address assigned to your Remote Desktop by following these steps:
+
+- Open a web browser within your Remote Desktop session.
+
+- In the web browser's address bar, type in "whatismyipaddress.com" and press Enter.
+
+- The website will display the IPv4 address associated with your Remote Desktop on the screen.
+
+This will allow you to view and note the specific IPv4 address assigned to your Remote Desktop session.
 </p>
 
 <h2>Sign up for Proton VPN</h2>
@@ -92,24 +159,49 @@ Once signed into your Remote Desktop go whatismyipaddress.com to check your Remo
 
 </p>
 <p>
-On your personal computer go to account.protonvpn.com/signup to sign up for a free Proton VPN account. 
+To sign up for a free Proton VPN account on your personal computer, please follow these steps:
+
+- Open a web browser on your personal computer.
+
+- In the web browser's address bar, type "account.protonvpn.com/signup" and press Enter.
+
+- You will be directed to the Proton VPN sign-up page.
+
+- Follow the on-screen instructions to create your free Proton VPN account, which typically includes providing your email address, creating a secure password, and any other required information.
+
+- Once you have completed the sign-up process, you should have access to your new Proton VPN account.
+
+By following these steps, you can easily register for a free Proton VPN account on your personal computer, allowing you to use Proton VPN services for enhanced online privacy and security.
 </p>
 
 <h2>Download Proton VPN</h2>
 
 
 ![image](https://github.com/kavismith/VPN-Setup/assets/143667203/528083d4-55de-43a5-8dba-be331094b670)
+
+After successfully signing up and creating your username and password for Proton VPN on your personal computer, the next step is to sign in to your Proton VPN account on the Remote Desktop. Once signed in, follow these steps to proceed:
+
+- Within the Remote Desktop session, open a web browser.
+
+- Visit the Proton VPN website and locate the "Sign In" option.
+
+- Enter your Proton VPN username and password that you previously created on your personal computer.
+
+- Once signed in, navigate to the "Downloads" section on the Proton VPN website.
+
 ![image](https://github.com/kavismith/VPN-Setup/assets/143667203/81706cc3-7a1b-411a-9f24-9eb82a837ca6)
 
+Here, you can download the Proton VPN client software tailored for your Remote Desktop operating system.
 
-
+By following these steps, you will be able to access and download the Proton VPN client on your Remote Desktop, allowing you to configure and use Proton VPN for enhanced online privacy and security within your Remote Desktop session.
 
 </p>
-<p>Once you hace successfully signed up and you created your username and password to Proton VPN on your personal computer, the next step is to sign into Proton VPN account on the Remote Desktop. Once signed in you need click on downloads to download your proton Vpn server.
+<p>
+ 
 </p>
 
 
-<h2>/Download Proton VPN</h2>
+<h2>Download Proton VPN</h2>
 
 
 ![image](https://github.com/kavismith/VPN-Setup/assets/143667203/8ae1bac3-0368-48ae-9575-f8717fdaef09)
@@ -117,5 +209,5 @@ On your personal computer go to account.protonvpn.com/signup to sign up for a fr
 
 </p>
 <p>
-once you have clicked download, go to your downloads in your folder file and open the download. Then go through the stept to download Proton VPN on your Remote Desktop
+After clicking the "Download" button on the Proton VPN website, go to your "Downloads" folder in your file directory on your Remote Desktop. Locate the downloaded Proton VPN installer file, open it, and then follow the provided steps to install Proton VPN on your Remote Desktop.
 </p>
